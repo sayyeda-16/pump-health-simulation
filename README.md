@@ -36,3 +36,8 @@ Data Validation: The simulation environment can be used to validate assumptions 
 | **Prognostics Output**| Streamlit Alert       | Displays a **CRITICAL ALERT** when RUL falls below the $\mathbf{50}$-hour threshold, signaling the need for intervention. |
 
 ---
+## Screenshots
+<img width="2534" height="784" alt="image" src="https://github.com/user-attachments/assets/c5365a42-6dca-4e04-9aa6-10d1d1019941" />
+<img width="2413" height="1079" alt="image" src="https://github.com/user-attachments/assets/6974e19d-5ce7-4cdf-96a1-784e7052ddc4" />
+<img width="2486" height="1045" alt="image" src="https://github.com/user-attachments/assets/bffb682d-a15f-4a19-8596-c2f0cd08aab5" />
+
